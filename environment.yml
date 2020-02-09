@@ -119,4 +119,5 @@ dependencies:
   - pip:
     - joblib==0.14.1
     - networkx==2.4
+    - pydot==1.4.1
 
